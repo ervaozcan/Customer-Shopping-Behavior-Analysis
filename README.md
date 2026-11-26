@@ -2,7 +2,7 @@
 
 An end-to-end data analytics project using **Python**, **SQL Server** and **Power BI** to understand how customer demographics, product preferences, discounts, shipping and subscriptions relate to purchasing behavior and revenue.
 
-![Dashboard](image/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
